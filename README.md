@@ -1,4 +1,4 @@
-# 🛡️ PoC: Manipulacion de Spanning Tree STP Root Claim-
+# 🛡️ PoC: STP-CLAIM-ROOT
 
 ![Status](https://img.shields.io/badge/Estado-Finalizado-green)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -43,7 +43,7 @@ Para ejecutar esta herramienta se requiere:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-repo.git](https://github.com/tu-usuario/nombre-repo.git)
+    git clone https://github.com/chris-dlsb/Manipulaci-n-de-Spanning-Tree-STP-Root-Claim-.git
     cd nombre-repo
     ```
 
