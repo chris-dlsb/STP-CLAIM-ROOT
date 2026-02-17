@@ -43,13 +43,13 @@ Para ejecutar esta herramienta se requiere:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/chris-dlsb/Manipulaci-n-de-Spanning-Tree-STP-Root-Claim-.git
-    cd nombre-repo
+    git clone (https://github.com/chris-dlsb/STP-CLAIM-ROOT.git)
+    cd STP-CLAIM-ROOT
     ```
 
 2.  **Ejecutar el script:**
     ```bash
-    sudo python3 nombre_script.py
+    sudo python3 STP-CLAIM-ROOT.py
     ```
 
 ### Parámetros Configurados
