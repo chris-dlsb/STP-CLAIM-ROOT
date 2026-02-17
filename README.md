@@ -1,4 +1,4 @@
-# 🛡️ PoC: Manipulaci-n-de-Spanning-Tree-STP-Root-Claim-
+# 🛡️ PoC: Manipulacion de Spanning Tree STP Root Claim-
 
 ![Status](https://img.shields.io/badge/Estado-Finalizado-green)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
