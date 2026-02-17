@@ -25,7 +25,8 @@ El entorno de pruebas fue desplegado utilizando **GNS3** con emulación de hardw
 | **VLAN** | Segmento | VLAN 1 (Nativa) | Red `10.14.14.0/24`. |
 
 ### Diagrama Lógico
-<img width="428" height="402" alt="Screenshot 2026-02-17 105444" src="https://github.com/user-attachments/assets/ed27c84c-5152-418e-9f7e-0e7a1cbf6cea" />
+<img width="386" height="379" alt="image" src="https://github.com/user-attachments/assets/e9af0119-b0fd-4958-bc13-71c6cbcc14a5" />
+
 
 
 ## ⚙️ Requisitos y Dependencias
